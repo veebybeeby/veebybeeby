@@ -1,4 +1,4 @@
-## Hi! My name is Jess 👋
+## Hi! My name is Jessica 👋
 
 I’m currently learning Python! 🐍
 
